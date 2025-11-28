@@ -1,3 +1,4 @@
-{ "ABCDEF-123456": { "used": false, "hwid": "" },
-"QQQ-111": { "used": false, "hwid": "" }, 
-"LUCID-999999": { "used": true, "hwid": "{A234-BB1-C22}" } }
+{
+  "KEY123": { "hwid": "", "used": false },
+  "KEY456": { "hwid": "", "used": false }
+}
